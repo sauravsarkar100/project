@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.nav-cloor ul li a {
+    color: #000 !important;
+}
+.nav-cloor{
+    background-color: #fff !important;
+}
+.nav-cloor ul li a:hover{
+    color: #6DAFFD !important;
+}
+.nav-heder{
+    background: #F9F9FF;
+    width: 100vw;
+    height: 100vh;
+}
+.banner-left{
+    margin-top: 100px;
+}
+.banner-left h6{
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.banner-left h1{
+    font-size: 30px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+.banner-left p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-start: 1em;
+    margin-inline-end: 0;
+    margin-inline-start: 0em;
+    color: #777777;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.625em;
+}
+.banner-left a{
+    background: -webkit-linear-gradient(0deg,#8490ff 0%,#62bdfc 100%);
+    line-height: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    font-weight: 500;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    position: relative;
+    text-decoration: none;
+}
+.about-right h6{
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.about-right h1{
+    font-size: 30px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+.about-right p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-start: 1em;
+    margin-inline-end: 0;
+    margin-inline-start: 0em;
+    color: #777777;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.625em; 
+}
+.about-right a{
+    background: -webkit-linear-gradient(0deg,#8490ff 0%,#62bdfc 100%);
+    line-height: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    font-weight: 500;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    position: relative;
+    text-decoration: none; 
+}
+.services-section{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.offered{
+    margin-bottom: 10px;
+}
+.services-section p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #777777;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.625em;
+}
+.design{
+    text-align: center;
+    margin-top: 60px;
+}
+.digin-icon{
+    
+}
+ a{
+    text-decoration: none !important;
+}
+.design a h4{
+    margin-top: 10px !important;
+    color: #000;
+}
+.design a h4:hover{
+    color: #6DAFFD;
+}
+.face-section{
+    background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+    padding: 120px 0;
+}
+.single-fact h1{
+    color: #fff;
+}
+.single-fact p{
+    color: #fff;
+}
